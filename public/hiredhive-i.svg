@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <!-- Honeycomb/Hexagon Icon with precise matrix transformation -->
+  <g transform="matrix(5.96154, 0, 0, 6.16667, 221, 250)">
+    <!-- Hexagon -->
+    <polygon points="0,-30 26,-15 26,15 0,30 -26,15 -26,-15" fill="none" stroke="#4CAF50" stroke-width="4"/>
+    
+    <!-- H letter inside hexagon -->
+    <path d="M-10,-15 L-10,15 M-10,0 L10,0 M10,-15 L10,15" stroke="#F9A826" stroke-width="4" fill="none" stroke-linecap="round"/>
+  </g>
+  
+  <!-- Small bee icon with precise matrix transformation -->
+  <g transform="matrix(3.14286, 0, 0, 3.22222, 431.756, 187.46)">
+    <ellipse cx="0" cy="0" rx="8" ry="5" fill="#F9A826"/>
+    <ellipse cx="12" cy="0" rx="8" ry="5" fill="#4CAF50"/>
+    <path d="M-3,-6 L3,-9 M-3,6 L3,9" stroke="#F9A826" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+</svg>
