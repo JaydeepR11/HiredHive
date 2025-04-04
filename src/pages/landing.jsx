@@ -75,7 +75,7 @@ const LandingPage = () => {
             <CardTitle>For Job Seekers</CardTitle>
           </CardHeader>
           <CardContent>
-            Search andd apply for jobs, track applications, and more.
+            Search and apply for jobs, track applications, and more.
           </CardContent>
         </Card>
         <Card>
