@@ -88,6 +88,7 @@ const JobListing = () => {
 
     const query = formData.get("search-query");
     if (query) setSearchQuery(query);
+    else setSearchQuery("");
   };
 
   const clearFilters = () => {
